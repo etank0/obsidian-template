@@ -1,0 +1,7 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Excalidraw/Template.excalidraw.md"
+  ]
+}
