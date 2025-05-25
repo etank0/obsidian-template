@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Template"
             }
+          },
+          {
+            "id": "14b230461f385229",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-26 04.37.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-26 04.37.31.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,12 +180,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa1da7a3fc798047",
+  "active": "14b230461f385229",
   "lastOpenFiles": [
-    "README.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-16 07.33.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-26 04.37.31.excalidraw.md",
     "Template.md",
+    "Excalidraw/Template.excalidraw.md",
+    "README.md",
+    "Excalidraw/Drawing 2025-02-16 07.33.04.excalidraw.md",
     "Excalidraw/Drawing 2025-02-16 07.20.12.excalidraw.md",
     "Excalidraw/Drawing 2025-02-16 07.00.22.excalidraw.md",
     "Excalidraw/Drawing 2025-02-16 06.57.20.excalidraw.md",
