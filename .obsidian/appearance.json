@@ -1,5 +1,6 @@
 {
-  "monospaceFontFamily": "SF Mono,JetBrains Mono",
-  "textFontFamily": "SF Mono,JetBrains Mono",
-  "baseFontSize": 15
+  "monospaceFontFamily": "Iosevka,SF Mono,JetBrains Mono",
+  "textFontFamily": "Iosevka,SF Mono,JetBrains Mono",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Inter"
 }
